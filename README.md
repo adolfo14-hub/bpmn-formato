@@ -15,3 +15,4 @@ Dentro de este modelado de proceso, se representa la simulación de la elaboraci
 10. Revisar documento
 11. Asignar fecha de la acta
 12. Firmar de autorización de formato
+
